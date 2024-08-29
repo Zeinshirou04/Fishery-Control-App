@@ -4,7 +4,7 @@
 
 Untuk melakukan instalasi dari repositori berikut. Silahkan clone / zip repositori berikut, dan kemudian ekstrak `extract here` di lokasi yang anda inginkan. Selanjutnya, ikuti tahap-tahap berikut:
 
-1. Buka Terminal / CMD di lokasi tersebut.
+1. Buka Terminal / CMD di folder tersebut.
 
     -   Windows: Klik kanan mouse, dan `open in terminal`
 
