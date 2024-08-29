@@ -33,7 +33,7 @@ Untuk mendapatkan URL dan Endpoint ke alat secara Local Network, silahkan ikuti 
 
 ## Type of API
 
-API pada repository berikut terdiri dari 2 API, yaitu API POST.
+API pada repository berikut terdiri dari 1 API, yaitu API POST.
 
 1. POST Insert Data Endpoint: `http://{IPv4 Address}/api/environment/data/store`
 
