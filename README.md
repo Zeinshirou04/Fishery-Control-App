@@ -42,7 +42,7 @@ API pada repository berikut terdiri dari 1 API, yaitu API POST.
     ```json
     {
         "Accept": "application/json",
-        "Authorization": "Bearer {YourAPIToken}" // Nantinya tidak perlu kurung kurawal {}
+        "Authorization": "Bearer {YourAPIToken}" <!-- Nantinya tidak perlu kurung kurawal {}  -->
     }
     ```
    
