@@ -2,7 +2,7 @@
 
 ## How to install and Configure
 
-Untuk melakukan instalasi dari repositori berikut. Silahkan clone / zip repositori berikut, dan kemudian ekstrak `extract here` di lokasi yang anda inginkan. Selanjutnya, ikuti tahap-tahap berikut:
+Untuk melakukan instalasi dari repositori berikut. Silahkan clone / zip repositori berikut, dan kemudian ekstrak `extract here` di lokasi yang anda inginkan. Jika anda baru di github, silahkan klik tombol `code` berwarna hijau sebelum bagian folder. Kemudian pilih `Download ZIP` dan lakukan `extract here`. Selanjutnya, ikuti tahap-tahap berikut:
 
 1. Buka Terminal / CMD di folder tersebut.
 
