@@ -42,7 +42,7 @@ API pada repository berikut terdiri dari 1 API, yaitu API POST.
     ```json
     {
         "Accept": "application/json",
-        "Authorization": "Bearer {YourAPIToken}"
+        "Authorization": "Bearer {YourAPIToken}" // Nantinya tidak perlu kurung kurawal {}
     }
     ```
    
@@ -53,7 +53,7 @@ API pada repository berikut terdiri dari 1 API, yaitu API POST.
         "water_ph": null,
         "water_temp": null,
         "water_humid": null,
-        "device_id": null
+        "device_id": null // Unique code yang diberikan atau didapatkan dari mendaftarkan alat
     }
     ```
 
